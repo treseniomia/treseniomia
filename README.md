@@ -1,8 +1,8 @@
 # Hey there! 👋 
 
-### Mobile Specialist | Fullstack Developer Intern at Certicode
+### Mobile Specialist 
 
-I bridge the gap between design and functionality by creating intuitive interfaces and robust mobile solutions. Currently, I'm honing my skills as a Fullstack Developer Intern, working on end-to-end applications and clean UI performance.
+I bridge the gap between design and functionality by creating intuitive interfaces and robust mobile solutions. I specialize in building high-performance cross-platform and native mobile applications with a focus on clean UI and efficient performance.
 
 ---
 
