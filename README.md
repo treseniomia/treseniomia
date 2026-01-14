@@ -26,4 +26,4 @@ I bridge the gap between design and functionality by creating intuitive interfac
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-myca-tresenio-79b600352/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.facebook.com/share/1DQ2efnqF1/)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.facebook.com/share/1DQ2efnqF1/)
