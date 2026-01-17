@@ -8,7 +8,7 @@ I bridge the gap between design and functionality by creating intuitive interfac
 
 ###  Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,kotlin,swift,ts,js,firebase,supabase,figma,html,css,mysql,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,kotlin,swift,ts,js,firebase,supabase,figma,html,css,php,mysql,laravel" />
 </p>
 
 ---
