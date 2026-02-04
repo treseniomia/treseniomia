@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-I am Mia Tresenio
+I’m Mia Myca Tresenio, a Mobile Solutions Engineer specializing in crafting high-performance native and cross-platform applications.
 
 ### About Me
 
