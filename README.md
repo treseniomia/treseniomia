@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-I’m Mia Myca Tresenio, a ----- specializing in crafting high-performance cross-platform mobile applications.
+I’m Mia Myca Tresenio, a ______ ________ specializing in crafting high-performance cross-platform mobile applications.
 
 
 ### About Me
