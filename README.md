@@ -11,7 +11,7 @@ I bridge the gap between design and functionality by creating intuitive interfac
 
 ###  Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,kotlin,ts,js,firebase,laravel,docker,figma,html,css,bootstrap,php,mysql,postman,git,mongodb,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,kotlin,ts,js,nativewind,tailwindcssfirebase,laravel,docker,figma,html,css,bootstrap,php,mysql,postman,git,mongodb,nodejs,express" />
 </p>
 
 ---
