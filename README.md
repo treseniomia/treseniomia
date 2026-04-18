@@ -5,7 +5,7 @@ I’m Mia Myca Tresenio.
 
 ### About Me
 
-I bridge the gap between design and functionality by creating intuitive interfaces and robust mobile solutions.
+hulaan mo
 
 ---
 
