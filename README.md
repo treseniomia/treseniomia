@@ -4,8 +4,7 @@ I’m Mia Myca Tresenio
 
 
 ### About Me
-
-hulaan mo
+Hulaan mo
 
 ---
 
