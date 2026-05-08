@@ -1,10 +1,10 @@
 # Hey there! 👋 
 
-I’m Mia Myca Tresenio
+I’m Mia Tresenio
 
 
 ### About Me
-Hulaan mo
+Hulaan mo 
 
 ---
 
