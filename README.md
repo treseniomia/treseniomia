@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-I’m Mia Tresenio
+I’m Mia Myca Tresenio
 
 
 ### About Me
