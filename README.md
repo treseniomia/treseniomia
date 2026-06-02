@@ -4,7 +4,7 @@ I’m Mia Tresenio
 
 
 ### About Me
-_____ Mas
+_
 
 ---
 
