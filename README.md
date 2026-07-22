@@ -1,10 +1,10 @@
 # Hey there! 👋 
 
-I’m Mia Tresenio
+---
 
 
 ### About Me
-masarap
+--
 
 
 ---
