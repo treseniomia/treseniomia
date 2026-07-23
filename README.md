@@ -1,14 +1,3 @@
-# Hey there! 👋 
-
----
-
-
-### About Me
---
-
-
----
-
 ###  Skills & Technologies
 <p align="left">
     <img src="https://skillicons.dev/icons?i=react,kotlin,ts,js,firebase,laravel,docker,php,mysql,postman,git,mongodb,nodejs,express,tailwind,figma,html,css,bootstrap,androidstudio,xcode,nativewind">
