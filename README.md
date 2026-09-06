@@ -1,6 +1,6 @@
 ###  Skills & Technologies
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,expo,kotlin,java,firebase,laravel,docker,php,mysql,postman,git,mongodb,nodejs,express,tailwind,figma,html,css,bootstrap,androidstudio,spring">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,expo,kotlin,java,spring,firebase,laravel,docker,php,mysql,postman,git,mongodb,nodejs,express,tailwind,figma,html,css,bootstrap,androidstudio,">
 </p>
 
 ----
